@@ -19,4 +19,26 @@
         "typeOfWidget": "PriceWidget",
         "url": "https://www.cnn.com"
     }
+ ,{
+        "adContentImageUrl": "https://cdn.pixabay.com/photo/2018/01/12/10/19/fantasy-3077928__340.jpg",
+        "adContentText": "This is a PortfoioSmall Ad!",
+        "endDate": "Oct 19, 2025 11:01:02 AM",
+        "id": "56a2a89d-5376-4c5b-b2fa-4330ce1c5540",
+        "seconds": 0,
+        "startDate": "Oct 15, 2022 11:01:02 AM",
+        "targetCoin": "DERO",
+        "typeOfWidget": "PortfolioSmall",
+        "url": "https://www.reddit.com"
+    }
+  ,{
+        "adContentImageUrl": "https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569__340.jpg",
+        "adContentText": "This is a PortfoioBig Ad!",
+        "endDate": "Oct 19, 2025 11:01:02 AM",
+        "id": "56a2a89d-5376-4c5b-b2fa-4330ce1c5540",
+        "seconds": 0,
+        "startDate": "Oct 15, 2022 11:01:02 AM",
+        "targetCoin": "XHV",
+        "typeOfWidget": "PortfolioBig",
+        "url": "https://dero.io"
+    }
 ]
