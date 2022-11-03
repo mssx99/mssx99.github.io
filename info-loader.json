@@ -32,7 +32,7 @@
     }
   ,{
         "adContentImageUrl": "https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569__340.jpg",
-        "adContentText": "This is a PortfoioBig Ad!",
+        "adContentText": "This is a PortfolioBig Ad!",
         "endDate": "Oct 19, 2025 11:01:02 AM",
         "id": "5ca2a89d-5376-4c5b-b2fa-4330ce1c5540",
         "seconds": 0,
@@ -46,6 +46,17 @@
         "adContentText": "Another Port X test ad",
         "endDate": "Oct 19, 2025 11:01:02 AM",
         "id": "4444a8bb-5376-4c5b-b2fa-4330ce1c5540",
+        "seconds": 0,
+        "startDate": "Oct 15, 2022 11:01:02 AM",
+        "targetCoin": "XHV",
+        "typeOfWidget": "PortfolioBig",
+        "url": "https://dero.io"
+    }
+ ,{
+        "adContentImageUrl": "https://blog.hootsuite.com/wp-content/uploads/2021/07/free-stock-photos-12.jpeg",
+        "adContentText": "Nice Forest",
+        "endDate": "Oct 19, 2025 11:01:02 AM",
+        "id": "4334a8bb-5376-4c5b-b2fa-4330ce1c5540",
         "seconds": 0,
         "startDate": "Oct 15, 2022 11:01:02 AM",
         "targetCoin": "XHV",
