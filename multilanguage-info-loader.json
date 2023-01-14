@@ -10,19 +10,22 @@
         "language": "en",
         "url": "https://n-tv.de",
         "imageUrl": "https://s2.coinmarketcap.com/static/new-alerts/630f84537c6300001bd8c71b/img/1665017505315_photo_2022-10-06%2009.49.53.jpeg",
-        "text": "Once again..."
+        "text": "Once again...",
+        "updateId": "3fc36912-4265-4eab-a698-f2fd701ca070"
       },
       {
         "language": "de",
         "url": "https://n-tv.de",
         "imageUrl": "https://s2.coinmarketcap.com/static/new-alerts/630f84537c6300001bd8c71b/img/1665017505315_photo_2022-10-06%2009.49.53.jpeg",
-        "text": "Wieder mal..."
+        "text": "Wieder mal...",
+        "updateId": "3fc36915-4265-4eab-a698-f2fd701ca070"
       },
       {
         "language": "es",
         "url": "https://n-tv.de",
         "imageUrl": "https://s2.coinmarketcap.com/static/new-alerts/630f84537c6300001bd8c71b/img/1665017505315_photo_2022-10-06%2009.49.53.jpeg",
-        "text": "Otra vez..."
+        "text": "Otra vez...",
+        "updateId": "3fc36914-4265-4eab-a698-f2fd701ca070"
       }
     ],
     "startDate": "Oct 9, 2022 11:01:02 AM",
