@@ -28,12 +28,11 @@
     ],
     "startDate": "Oct 9, 2022 11:01:02 AM",
     "targetCoin": "DERO",
-    "typeOfWidget": "PriceWidget",
-    "url": "https://www.n-tv.de"
+    "typeOfWidget": "PriceWidget"
   },
   {
     "endDate": "Oct 19, 2025 11:01:02 AM",
-    "id": "ddd912-4265-4eab-a698-f2fd701cb070",
+    "id": "ddd912-4265-4eab-a698-f2fd701ca070",
     "seconds": 0,
     "contents": [
       {
@@ -60,7 +59,130 @@
     ],
     "startDate": "Oct 9, 2022 11:01:02 AM",
     "targetCoin": "BTC",
-    "typeOfWidget": "PriceWidget",
-    "url": "https://www.n-tv.de"
+    "typeOfWidget": "PriceWidget"
+  },
+  {
+    "endDate": "Oct 19, 2025 11:01:02 AM",
+    "id": "a1c36912-4265-4eab-a698-f2fd701ca070",
+    "seconds": 0,
+    "contents": [
+      {
+        "language": "en",
+        "url": "GoPremium",
+        "imageUrl": "https://s2.coinmarketcap.com/static/new-alerts/630f84537c6300001bd8c71b/img/1665017505315_photo_2022-10-06%2009.49.53.jpeg",
+        "text": "No Ads... go premium for a few cents a month",
+        "updateId": "a1c36916-4265-4eab-a698-f2fd701ca070"
+      },
+      {
+        "language": "de",
+        "url": "GoPremium",
+        "imageUrl": "https://s2.coinmarketcap.com/static/new-alerts/630f84537c6300001bd8c71b/img/1665017505315_photo_2022-10-06%2009.49.53.jpeg",
+        "text": "Weg mit der Werbung für ein paar Cents pro Monat",
+        "updateId": "a1c36915-4265-4eab-a698-f2fd701ca070"
+      },
+      {
+        "language": "es",
+        "url": "GoPremium",
+        "imageUrl": "https://s2.coinmarketcap.com/static/new-alerts/630f84537c6300001bd8c71b/img/1665017505315_photo_2022-10-06%2009.49.53.jpeg",
+        "text": "Sin publicidad en premium por un par de cents!",
+        "updateId": "a1c36914-4265-4eab-a698-f2fd701ca070"
+      }
+    ],
+    "startDate": "Oct 9, 2022 11:01:02 AM",
+    "targetCoin": "DERO",
+    "typeOfWidget": "PriceWidget"
+  },
+  {
+    "endDate": "Oct 19, 2025 11:01:02 AM",
+    "id": "a2d912-4265-4eab-a698-f2fd701ca070",
+    "seconds": 0,
+    "contents": [
+      {
+        "language": "en",
+        "url": "GoPremium",
+        "imageUrl": "https://s2.coinmarketcap.com/static/new-alerts/61eaf7492f29840013760da4/img/1664265755522_photo_2022-09-27%2015.02.25.jpeg",
+        "text": "30% off first 2 years!",
+        "updateId": "a2dd916-4265-4eab-a698-f2fd701ca070"
+      },
+      {
+        "language": "de",
+        "url": "GoPremium",
+        "imageUrl": "https://s2.coinmarketcap.com/static/new-alerts/61eaf7492f29840013760da4/img/1664265755522_photo_2022-09-27%2015.02.25.jpeg",
+        "text": "30% Rabatt in den ersten beiden Jahren!",
+        "updateId": "a236916-4265-4eab-a698-f2fd701ca070"
+      },
+      {
+        "language": "es",
+        "url": "GoPremium",
+        "imageUrl": "https://s2.coinmarketcap.com/static/new-alerts/61eaf7492f29840013760da4/img/1664265755522_photo_2022-09-27%2015.02.25.jpeg",
+        "text": "Rebaja del 30% en los primeros 2 años!",
+        "updateId": "a2c3691d-4265-4eab-a698-f2fd701ca070"
+      }
+    ],
+    "startDate": "Oct 9, 2022 11:01:02 AM",
+    "targetCoin": "BTC",
+    "typeOfWidget": "PortfolioSmall"
+  },
+  {
+    "endDate": "Oct 19, 2025 11:01:02 AM",
+    "id": "b1c36912-4265-4eab-a698-f2fd701ca070",
+    "seconds": 0,
+    "contents": [
+      {
+        "language": "en",
+        "url": "GoPremium",
+        "imageUrl": "https://s2.coinmarketcap.com/static/new-alerts/630f84537c6300001bd8c71b/img/1665017505315_photo_2022-10-06%2009.49.53.jpeg",
+        "text": "No Ads... go premium for a few cents a month",
+        "updateId": "b1c36916-4265-4eab-a698-f2fd701ca070"
+      },
+      {
+        "language": "de",
+        "url": "GoPremium",
+        "imageUrl": "https://s2.coinmarketcap.com/static/new-alerts/630f84537c6300001bd8c71b/img/1665017505315_photo_2022-10-06%2009.49.53.jpeg",
+        "text": "Weg mit der Werbung für ein paar Cents pro Monat",
+        "updateId": "b1c36915-4265-4eab-a698-f2fd701ca070"
+      },
+      {
+        "language": "es",
+        "url": "GoPremium",
+        "imageUrl": "https://s2.coinmarketcap.com/static/new-alerts/630f84537c6300001bd8c71b/img/1665017505315_photo_2022-10-06%2009.49.53.jpeg",
+        "text": "Sin publicidad en premium por un par de cents!",
+        "updateId": "b1c36914-4265-4eab-a698-f2fd701ca070"
+      }
+    ],
+    "startDate": "Oct 9, 2022 11:01:02 AM",
+    "targetCoin": "DERO",
+    "typeOfWidget": "PortfolioBig"
+  },
+  {
+    "endDate": "Oct 19, 2025 11:01:02 AM",
+    "id": "a2d912-4265-4eab-a698-f2fd701ca070",
+    "seconds": 0,
+    "contents": [
+      {
+        "language": "en",
+        "url": "GoPremium",
+        "imageUrl": "https://s2.coinmarketcap.com/static/new-alerts/61eaf7492f29840013760da4/img/1664265755522_photo_2022-09-27%2015.02.25.jpeg",
+        "text": "30% off first 2 years!",
+        "updateId": "a2dd916-4265-4eab-a698-f2fd701ca070"
+      },
+      {
+        "language": "de",
+        "url": "GoPremium",
+        "imageUrl": "https://s2.coinmarketcap.com/static/new-alerts/61eaf7492f29840013760da4/img/1664265755522_photo_2022-09-27%2015.02.25.jpeg",
+        "text": "30% Rabatt in den ersten beiden Jahren!",
+        "updateId": "a236916-4265-4eab-a698-f2fd701ca070"
+      },
+      {
+        "language": "es",
+        "url": "GoPremium",
+        "imageUrl": "https://s2.coinmarketcap.com/static/new-alerts/61eaf7492f29840013760da4/img/1664265755522_photo_2022-09-27%2015.02.25.jpeg",
+        "text": "Rebaja del 30% en los primeros 2 años!",
+        "updateId": "a2c3691d-4265-4eab-a698-f2fd701ca070"
+      }
+    ],
+    "startDate": "Oct 9, 2022 11:01:02 AM",
+    "targetCoin": "BTC",
+    "typeOfWidget": "PortfolioBig"
   }
 ]
