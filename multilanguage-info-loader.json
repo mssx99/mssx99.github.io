@@ -33,7 +33,7 @@
   },
   {
     "endDate": "Oct 19, 2025 11:01:02 AM",
-    "id": "3fc36912-4265-4eab-a698-f2fd701ca070",
+    "id": "ddd912-4265-4eab-a698-f2fd701ca070",
     "seconds": 0,
     "contents": [
       {
@@ -41,21 +41,21 @@
         "url": "https://cnn.com",
         "imageUrl": "https://s2.coinmarketcap.com/static/new-alerts/61eaf7492f29840013760da4/img/1664265755522_photo_2022-09-27%2015.02.25.jpeg",
         "text": "30% off first 2 years!",
-        "updateId": "3fc36916-4265-4eab-a698-f2fd701ca070"
+        "updateId": "3fdd916-4265-4eab-a698-f2fd701ca070"
       },
       {
         "language": "de",
         "url": "https://cnn.com",
         "imageUrl": "https://s2.coinmarketcap.com/static/new-alerts/61eaf7492f29840013760da4/img/1664265755522_photo_2022-09-27%2015.02.25.jpeg",
         "text": "30% Rabatt in den ersten beiden Jahren!",
-        "updateId": "3fc36916-4265-4eab-a698-f2fd701ca070"
+        "updateId": "3d36916-4265-4eab-a698-f2fd701ca070"
       },
       {
         "language": "es",
         "url": "https://cnn.com",
         "imageUrl": "https://s2.coinmarketcap.com/static/new-alerts/61eaf7492f29840013760da4/img/1664265755522_photo_2022-09-27%2015.02.25.jpeg",
         "text": "Rebaja del 30% en los primeros 2 años!",
-        "updateId": "3fc36916-4265-4eab-a698-f2fd701ca070"
+        "updateId": "3fc3691d-4265-4eab-a698-f2fd701ca070"
       }
     ],
     "startDate": "Oct 9, 2022 11:01:02 AM",
